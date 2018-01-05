@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = "sajaldotinfo"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-87994197-3"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
