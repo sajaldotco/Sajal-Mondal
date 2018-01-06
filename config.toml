@@ -244,32 +244,32 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "নীড়পাতা"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "প্রকাশনা"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "ব্লগ"
   url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "প্রকল্প"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
+  name = "উপদেশ"
   url = "#teaching"
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "যোগাযোগ"
   url = "#contact"
   weight = 6
 
