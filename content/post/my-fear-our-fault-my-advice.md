@@ -3,15 +3,15 @@ date = 2017-07-17
 lastmod = 2018-01-07
 draft = false
 tags = ["my fear", "our fault", "my advice"]
-title = "Getting started with the Academic framework for Hugo"
+title = "আমার ভয়, আমাদের দোষ ও আমার অনুরোধ"
 math = true
 summary = """
-Create a beautifully simple personal or academic website in under 10 minutes. 
+আমার ভয়, আমাদের দোষ ও আমার অনুরোধ 
 """
 
 [header]
-image = "headers/getting-started.png"
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+image = "communal-Bangladesh.png"
+caption = "আমার ভয়, আমাদের দোষ ও আমার অনুরোধ"
 
 +++
 
