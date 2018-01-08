@@ -27,7 +27,7 @@ googleAnalytics = "UA-87994197-3"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "bn"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
@@ -112,7 +112,7 @@ defaultContentLanguageInSubdir = false
   comment_count = true
 
   # Display section pager for posts?
-  section_pager = true
+  section_pager = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -289,5 +289,5 @@ defaultContentLanguageInSubdir = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[Languages.bn]
-  languageCode = "bn-bd"
+[Languages.en]
+languageCode = "en-us"
