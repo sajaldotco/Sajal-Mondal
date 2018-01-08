@@ -1,5 +1,5 @@
 +++
-title = "Blog Posts"
+title = "প্রকাশনা সমূহ"
 date = 2017-01-01
 math = true
 highlight = false
