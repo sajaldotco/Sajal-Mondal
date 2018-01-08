@@ -1,0 +1,140 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Toggle navigation
+
+- id: table_of_contents
+  translation: Table of Contents
+
+# General
+
+- id: related
+  translation: Related
+
+- id: minute_read
+  translation: min read
+
+# Buttons
+
+- id: btn_preprint
+  translation: Preprint
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Cite
+
+- id: btn_slides
+  translation: Slides
+
+- id: btn_video
+  translation: Video
+
+- id: btn_code
+  translation: Code
+
+- id: btn_dataset
+  translation: Dataset
+
+- id: btn_project
+  translation: Project
+
+- id: btn_poster
+  translation: Poster
+
+- id: btn_source
+  translation: Source Document
+
+- id: btn_copy
+  translation: Copy
+
+- id: btn_download
+  translation: Download
+
+# About widget
+
+- id: interests
+  translation: Interests
+
+- id: education
+  translation: Education
+
+# Publications widget
+
+- id: more_publications
+  translation: আরো প্রকাশনা
+
+# Posts widget
+
+- id: continue_reading
+  translation: বিস্তারিত পড়ুন
+
+- id: more_posts
+  translation: আরো ব্লগ পোস্ট
+
+# Talks widget
+
+- id: more_talks
+  translation: আরো বক্তৃতা
+
+# Publication/Talk details
+
+- id: abstract
+  translation: সংক্ষিপ্তসার
+
+- id: publication
+  translation: প্রকাশনা
+
+- id: publication_type
+  translation: প্রকারভেদ
+
+- id: date
+  translation: তারিখ
+
+- id: last_updated
+  translation: সর্বশেষ আপডেট
+
+- id: links
+  translation: লিংক
+
+- id: event
+  translation: ঘটনা
+
+- id: location
+  translation: অবস্থান
+
+# Filtering
+
+- id: filter_by_type
+  translation: টাইপ দ্বারা ফিল্টার
+
+- id: filter_all
+  translation: সবগুলো
+
+# Project details
+
+- id: open_project_site
+  translation: প্রকল্প সাইটে যান
+
+# Default node titles
+
+- id: posts
+  translation: ব্লগ
+
+- id: publications
+  translation: প্রকাশনা সমূহ
+
+- id: talks
+  translation: কথোপকথন
+
+- id: projects
+  translation: প্রকল্পগুলো
+
+# Error 404
+
+- id: page_not_found
+  translation: দুঃখিত আপনার কাংখিত পাতাটি পাওয়া যায়নি।
+
+- id: 404_recommendations
+  translation: সম্ভবত আপনি নিম্নে বর্ণিত কোন একটি প্রকাশনা খুঁজছেন ।
