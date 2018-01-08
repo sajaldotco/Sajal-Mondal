@@ -6,7 +6,7 @@ highlight = false
 aliases = ["/blog/"]
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "Sajal-Mondal.jpg"
+caption = "সজল মণ্ডল এর বাংলা ব্লগ"
 
 +++
