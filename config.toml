@@ -26,8 +26,8 @@ disqusShortname = "sajaldotinfo"
 googleAnalytics = "UA-87994197-3"
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "bn"
-defaultContentLanguageInSubdir = true
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
@@ -112,7 +112,7 @@ defaultContentLanguageInSubdir = true
   comment_count = true
 
   # Display section pager for posts?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
