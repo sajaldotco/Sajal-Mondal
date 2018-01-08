@@ -1,64 +1,64 @@
 # Navigation
 
 - id: toggle_navigation
-  translation: Toggle navigation
+  translation: টগল নেভিগেশান
 
 - id: table_of_contents
-  translation: Table of Contents
+  translation: সুচিপত্র
 
 # General
 
 - id: related
-  translation: Related
+  translation: সংশ্লিষ্ট
 
 - id: minute_read
-  translation: min read
+  translation: মিনিটের পাঠ্য
 
 # Buttons
 
 - id: btn_preprint
-  translation: Preprint
+  translation: উদ্ভাবনের
 
 - id: btn_pdf
-  translation: PDF
+  translation: পিডিএফ
 
 - id: btn_cite
-  translation: Cite
+  translation: চিটি
 
 - id: btn_slides
-  translation: Slides
+  translation: স্লাইড
 
 - id: btn_video
-  translation: Video
+  translation: ভিডিও
 
 - id: btn_code
-  translation: Code
+  translation: কোড
 
 - id: btn_dataset
-  translation: Dataset
+  translation: তথ্য তালিকা
 
 - id: btn_project
-  translation: Project
+  translation: প্রকল্প
 
 - id: btn_poster
-  translation: Poster
+  translation: পোস্টার
 
 - id: btn_source
-  translation: Source Document
+  translation: উৎস নথি
 
 - id: btn_copy
-  translation: Copy
+  translation: কপি
 
 - id: btn_download
-  translation: Download
+  translation: ডাউনলোড
 
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: আগ্রহ
 
 - id: education
-  translation: Education
+  translation: প্রাতিষ্ঠানিক শিক্ষা
 
 # Publications widget
 
