@@ -26,7 +26,7 @@ disqusShortname = "sajaldotinfo"
 googleAnalytics = "UA-87994197-3"
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "bn"
 defaultContentLanguageInSubdir = false
 
 [outputs]
