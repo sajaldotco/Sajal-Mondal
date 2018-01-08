@@ -27,7 +27,7 @@ googleAnalytics = "UA-87994197-3"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "bn"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
@@ -290,4 +290,4 @@ defaultContentLanguageInSubdir = true
 
 # Configure the English version of the website.
 [Languages.en]
-languageCode = "en-us"
+  languageCode = "en-us"
