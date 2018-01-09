@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "রেডিও ফ্রিকোয়েন্সি",
+    "নেটওয়ার্ক ইঞ্জিনিয়ারিং",
+    "তথ্য প্রযুক্তি"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "বিএসসি ইন কম্পিউটার বিজ্ঞান ও প্রকৌশল"
+  institution = "আমেরিকা বাংলাদেশ বিশ্ববিদ্যালয়"
+  year = ২০১৭
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "ডিপ্লোমা ইন মেকানিক্যাল ইঞ্জিনিয়ারিং,"
+  institution = "খুলনা পলিটেকনিক ইন্সটিটিউট"
+  year = ২০১০
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "মাধ্যমিক স্কুল সার্টিফিকেট"
+  institution = "শ্রীফলতালা পাইলট উচ্চ বিদ্যালয়"
+  year = ২০০৩
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+আমি সজল মণ্ডল,ঢাকা বাংলাদেশ থেকে। আমি পাইনাপল আইটি এর প্রতিষ্ঠাতা এবং সিইও যা সর্বাধিক নেতৃস্থানীয় ওয়েব হোস্টিং কোম্পানি। আমিও গো-ব্রডব্যান্ড ওয়াইম্যাক্সের ইঞ্জিনিয়ার, যা এডিএন টেলিকম এবং গ্রামীণফোন দ্বারা পরিচালিত হয়।
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+নতুন হার্ডওয়্যার, সফ্টওয়্যার নিয়ে ব্যাবহার ও গবেষণা আমার পছন্দের বিষয়। আমি মনে করি যে প্রযুক্তি গবেষণা আমাকে আরও ধৈর্য এবং দায়িত্বশীল হতে সাহায্য করে। পাশাপাশি, আমি বৈজ্ঞানিক কল্পকাহিনীর  সিনেমা শো পছন্দ করি। আমার প্রধান দক্ষতার টেলিযোগাযোগ সরঞ্জামগুলি বিটিএস, বিএসসি, এমএসসি, এম ২000, ওয়াসএন গেটওয়ে, এএএ সার্ভার, রাউটার ও ফায়ারওয়াল। আমার ডোমেইন ম্যানেজমেন্ট, ওয়েব হোস্টিং (cPanel / WHM), ওয়েব ডেভেলপমেন্টে অভিজাত দক্ষতা আছে।
