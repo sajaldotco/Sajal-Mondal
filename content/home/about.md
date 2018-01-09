@@ -29,7 +29,7 @@ weight = 5
 [[education.courses]]
   course = " মাধ্যমিক স্কুল সার্টিফিকেট "
   institution = " শ্রীফলতালা পাইলট উচ্চ বিদ্যালয় "
-  year = ২০০৩
+  year = 2003
  
 +++
 
