@@ -10,20 +10,20 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Radio frequency",
-    "Network Engineering",
-    "Information Technology"
+    "রেডিও ফ্রিকোয়েন্সি",
+    "নেটওয়ার্ক ইঞ্জিনিয়ারিং",
+    "তথ্য প্রযুক্তি"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Bsc In Computer Science & Engineering"
-  institution = "America Bangladesh University"
+  course = " বিএসসি ইন কম্পিউটার বিজ্ঞান ও প্রকৌশল "
+  institution = "আমেরিকা বাংলাদেশ বিশ্ববিদ্যালয়"
   year = 2017
 
 [[education.courses]]
-  course = "Diploma In Mechanical Engineering"
-  institution = "Khulna Polytechnic Institute"
+  course = " ডিপ্লোমা ইন মেকানিক্যাল ইঞ্জিনিয়ারিং "
+  institution = " খুলনা পলিটেকনিক ইন্সটিটিউট "
   year = 2010
 
 [[education.courses]]
@@ -33,7 +33,7 @@ weight = 5
  
 +++
 
-# Biography
+# চরিত-কথা
 
 আমি সজল মণ্ডল,ঢাকা বাংলাদেশ থেকে। আমি পাইনাপল আইটি এর প্রতিষ্ঠাতা এবং সিইও যা সর্বাধিক নেতৃস্থানীয় ওয়েব হোস্টিং কোম্পানি। আমিও গো-ব্রডব্যান্ড ওয়াইম্যাক্সের ইঞ্জিনিয়ার, যা এডিএন টেলিকম এবং গ্রামীণফোন দ্বারা পরিচালিত হয়।
 
