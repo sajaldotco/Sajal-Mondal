@@ -27,9 +27,9 @@ weight = 5
   year = 2010
 
 [[education.courses]]
-  course = "Secondary School Certificate"
-  institution = "Srefaltala Pilot High School"
-  year = 2003
+  course = " মাধ্যমিক স্কুল সার্টিফিকেট "
+  institution = " শ্রীফলতালা পাইলট উচ্চ বিদ্যালয় "
+  year = ২০০৩
  
 +++
 
