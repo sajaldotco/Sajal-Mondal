@@ -10,7 +10,7 @@ title = "সজলের খেরোখাতা"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "কপিরাইট ২০১৮ © সজল মণ্ডল কর্তৃক সর্বসত্ত সংরক্ষিত |"
+copyright = "কপিরাইট ২০১৮ © সজল মণ্ডল কর্তৃক সর্বসত্ত সংরক্ষিত "
 
 theme = "academic"
 enableEmoji = true
@@ -56,7 +56,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "পাইনাপেল আইটি", url = "" } ]
+  organizations = [ { name = "পাইনাপেল আইটি", url = "https://ineappleit.net" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "sajal.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -72,7 +72,7 @@ defaultContentLanguageInSubdir = false
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
-  #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+  discussion = { name = "Discuss", url = "https://discourse.gohugo.io/u/sajal" }
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
