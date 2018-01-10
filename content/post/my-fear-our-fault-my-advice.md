@@ -10,7 +10,7 @@ summary = """
 """
 
 [header]
-image = "communal-Bangladesh.png"
+image = "without-fear.jpg"
 caption = "আমার ভয়, আমাদের দোষ ও আমার অনুরোধ"
 
 +++
