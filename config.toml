@@ -112,7 +112,7 @@ defaultContentLanguageInSubdir = false
   comment_count = true
 
   # Display section pager for posts?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -251,7 +251,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "English"
-  url = "https://www.sajal.info"
+  url = "https://sajal.info"
   weight = 2
   
 [[menu.main]]
