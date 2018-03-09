@@ -255,8 +255,8 @@ defaultContentLanguageInSubdir = false
   weight = 2
   
 [[menu.main]]
-  name = "প্রকাশনা"
-  url = "#publications_selected"
+  name = "ছবির গ্যালারী"
+  url = "https://gallery.sajal.info"
   weight = 3
 
 [[menu.main]]
