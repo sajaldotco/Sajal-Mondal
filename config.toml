@@ -218,7 +218,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:hello@sajal.info"
+    link = "mailto:hello@sajal.co"
 
   [[params.social]]
     icon = "twitter"
@@ -251,12 +251,12 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "English"
-  url = "https://sajal.info"
+  url = "https://sajal.co"
   weight = 2
   
 [[menu.main]]
   name = "ছবির গ্যালারী"
-  url = "https://gallery.sajal.info"
+  url = "https://gallery.sajal.co"
   weight = 3
 
 [[menu.main]]
