@@ -11,8 +11,8 @@ summary = """
 """
 
 [header]
-image = "rape-in-Bangladh.jpg"
-caption = "ধর্ষকামী বাংলাদেশ"
+image = "sheik_hasina.jpg"
+caption = "প্রধানমন্ত্রী শেখ হাসিনা"
 
 +++
 
