@@ -13,7 +13,7 @@ summary = """
 """
 
 [header]
-image = "sheik_hasina.j"
+image = "philosophy-.jpg"
 caption = "আমার মুক্ত দর্শন"
 
 +++
