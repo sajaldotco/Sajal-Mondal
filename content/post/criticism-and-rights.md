@@ -11,7 +11,7 @@ summary = """
 """
 
 [header]
-image = "sheik_hasina.jp"
+image = "images.jpeg"
 caption = "আমার সমালোচনার অধিকার"
 
 +++
