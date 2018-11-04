@@ -11,7 +11,7 @@ summary = """
 """
 
 [header]
-image = "sheik_hasina.jp"
+image = "perverted.jpg"
 caption = "বাঙালির বিকৃত রুচি"
 
 +++
