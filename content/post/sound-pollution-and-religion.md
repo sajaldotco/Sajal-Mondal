@@ -11,7 +11,7 @@ summary = """
 """
 
 [header]
-image = "sheik_hasina.jp"
+image = "sounds.jpg"
 caption = "শব্দ সন্ত্রাস ও সনাতন ধর্মীয় উৎসব"
 
 +++
