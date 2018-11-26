@@ -11,7 +11,7 @@ summary = """
 """
 
 [header]
-image = "sheik_hasin.jpg"
+image = "bhola.jpg"
 caption = "ভোলা সাইক্লোন ও স্বাধীনতা সংগ্রামের সম্পর্ক"
 
 +++
