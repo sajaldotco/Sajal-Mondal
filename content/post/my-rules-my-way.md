@@ -12,7 +12,7 @@ summary = """
 """
 
 [header]
-image = "sheik_hasna.jpg"
+image = "hqdefault.jpg"
 caption = "আমার নীতি ও আপোষহীন বিরোধিতা"
 
 +++
