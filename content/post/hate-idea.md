@@ -11,7 +11,7 @@ summary = """
 """
 
 [header]
-image = "sheik_haa.jpg"
+image = "hate.jpg"
 caption = "বাঙালির বিদ্বেষ ও সরলীকরণ"
 
 +++
