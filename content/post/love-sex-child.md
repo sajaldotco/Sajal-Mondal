@@ -11,7 +11,7 @@ summary = """
 """
 
 [header]
-image = "sheik_hasna.jpg"
+image = "love-sex.jpg"
 caption = "বাঙালির প্রেম যৌনতা ও সন্তান"
 
 +++
