@@ -1,14 +1,14 @@
 +++
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "গোপনীয়তার নীতি"
+title = "ব্যবহারের শর্তাবলী"
 time_start = 2030-06-01T13:00:00
 time_end = 2030-06-01T15:00:00
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "English version"
+event_url = "https://sajal.co/terms-of-service-of-sajal.co/"
+location = "ভারত, বাংলাদেশ"
 
 # Is this a selected talk? (true/false)
 selected = false
