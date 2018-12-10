@@ -225,11 +225,7 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//twitter.com/sajaldotinfo"
 
-  [[params.social]]
-    icon = "facebook"
-    icon_pack = "fa"
-    link = "www.facebook.com/www.sajal.co
-
+  
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
