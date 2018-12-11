@@ -2,16 +2,16 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "ব্যবহারের শর্তাবলী"
-time_start = 2030-06-01T13:00:00
+time_start = 2014-06-01T13:00:00
 time_end = 2030-06-01T15:00:00
 abstract = ""
 abstract_short = ""
-event = "English version"
+Translation = "English version"
 event_url = "https://sajal.co/terms-of-service-of-sajal.co/"
-location = "ভারত, বাংলাদেশ"
+Applicable location = "ভারত, বাংলাদেশ"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
