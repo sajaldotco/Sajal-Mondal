@@ -6,9 +6,9 @@ time_start = 2014-06-01T13:00:00
 time_end = 2030-06-01T15:00:00
 abstract = ""
 abstract_short = ""
-Translation = "English version"
+event = "English version"
 event_url = "https://sajal.co/terms-of-service-of-sajal.co/"
-Applicable location = "ভারত, বাংলাদেশ"
+location = "ভারত, বাংলাদেশ"
 
 # Is this a selected talk? (true/false)
 selected = true
