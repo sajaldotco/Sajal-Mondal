@@ -12,7 +12,7 @@ summary = """
 """
 
 [header]
-image = "defeted-sajal.png"
+image = "defeted-sajal.jpg"
 caption = "প্রতিনিয়ত আমি হেরে যাচ্ছি মৌলবাদীদের কাছে"
 
 +++
