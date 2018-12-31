@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "সজল মণ্ডল"
-  role = "আমি সজল মণ্ডল,ঢাকা বাংলাদেশ থেকে। আমি পাইনাপল আইটি এর প্রতিষ্ঠাতা এবং সিইও যা সর্বাধিক নেতৃস্থানীয় ওয়েব হোস্টিং কোম্পানি।"
+  role = "আমি সজল মণ্ডল,পেশায় একজন প্রকৌশলী। আমি পাইনাপল আইটি এর প্রতিষ্ঠাতা এবং সিইও যা সর্বাধিক নেতৃস্থানীয় ওয়েব হোস্টিং কোম্পানি।"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -61,9 +61,9 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "sajal.co.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "hello@sajal.co"
-  address = "Sraboni 14NA/1 Lakecity Concord,Khilkhet, Dhaka-1229"
+  address = "Canning -II, West Bengal, India-743329"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+8801749555918"
+  phone = "+916297451640"
   skype = "uwriteme"
   telegram = ""
 
