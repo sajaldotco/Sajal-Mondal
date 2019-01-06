@@ -11,7 +11,7 @@ summary = """
 """
 
 [header]
-image = "sajal10.jpg"
+image = "use-of-god-alah.jpg"
 caption = "উপমহাদেশীয় লেখকদের লেখায় ঈশ্বর ও আল্লাহর ব্যবহার ও মনীষীদের নাস্তিক্যবাদ"
 
 +++
