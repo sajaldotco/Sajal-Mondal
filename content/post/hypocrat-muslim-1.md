@@ -11,7 +11,7 @@ summary = """
 """
 
 [header]
-image = "perverted-muslim.mp4"
+image = "saudi-with-israel.jpg"
 caption = "বাংলাদেশি ভন্ড মুসলিমদের ইহুদি ও অমুসলিম বিদ্বেষ"
 
 +++
